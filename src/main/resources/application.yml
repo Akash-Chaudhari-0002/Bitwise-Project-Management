@@ -1,0 +1,14 @@
+server:
+  port: 9090
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://YourUserName:Password@mycluster-1.95vod4o.mongodb.net/?retryWrites=true&w=majority
+      database: bitwise-project-management
+
+
+
+
+# IMP change
+#  akash:akashchaudhari
